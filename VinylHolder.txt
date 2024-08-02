@@ -1,0 +1,16 @@
+Vinyl Holder
+Idea:
+Media player that scans an NFC tag inside a vinyl case, and begins playing that album or playlist.
+
+Design thoughts:
+Media player: Offline, custom speakers, audio files stored on SD card so must be updated manually.
+
+Spotify API: must have good wifi connection, use echo dot, can play albums on spotify but not playlists.
+
+Design to imitate 1960s-1970s magazine or vinyl holders.
+
+
+Questions:
+
+Resources:
+https://projecthub.arduino.cc/siliconchris/fairytale-77e2fd - Fairy tale box
